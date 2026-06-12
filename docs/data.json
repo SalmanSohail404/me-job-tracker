@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T10:24:58.238420+00:00",
+  "generated_at": "2026-06-12T14:16:47.779763+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -603,6 +603,182 @@
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Disperse+mechanical+engineer&location=Islamabad%2C+Pakistan",
         "indeed": "https://pk.indeed.com/jobs?q=Disperse+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Eastern Highway Company",
+      "category": "Startups & Smaller Tech/Engineering Firms",
+      "checked_url": "https://www.easternhighway.com/",
+      "status": "homepage_only",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Eastern+Highway+Company+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Eastern+Highway+Company+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "AIO App Inc",
+      "category": "Startups & Smaller Tech/Engineering Firms",
+      "checked_url": "https://www.aioapp.com/careers",
+      "status": "checked",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=AIO+App+Inc+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=AIO+App+Inc+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Nova Engineering Enterprises",
+      "category": "Startups & Smaller Tech/Engineering Firms",
+      "checked_url": "https://www.novaengineering.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Nova+Engineering+Enterprises+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Nova+Engineering+Enterprises+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Secure Tech Cards",
+      "category": "Startups & Smaller Tech/Engineering Firms",
+      "checked_url": "https://www.securetechcards.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Secure+Tech+Cards+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Secure+Tech+Cards+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "SEEE Technologies",
+      "category": "Solar & Renewable Energy",
+      "checked_url": "https://www.seeetech.com/",
+      "status": "homepage_only",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=SEEE+Technologies+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=SEEE+Technologies+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Beacon Energy Limited",
+      "category": "Solar & Renewable Energy",
+      "checked_url": "https://www.beaconenergy.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Beacon+Energy+Limited+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Beacon+Energy+Limited+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Voltrix Batteries",
+      "category": "Solar & Renewable Energy",
+      "checked_url": "https://www.voltrix.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Voltrix+Batteries+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Voltrix+Batteries+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Capital Solar Engineering",
+      "category": "Solar & Renewable Energy",
+      "checked_url": "https://www.capitalsolar.com.pk/careers",
+      "status": "checked",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Capital+Solar+Engineering+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Capital+Solar+Engineering+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Pakistan Spring & Engineering Co",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.pakistanspring.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Pakistan+Spring+%26+Engineering+Co+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Pakistan+Spring+%26+Engineering+Co+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Taraz Technologies",
+      "category": "Startups & Smaller Tech/Engineering Firms",
+      "checked_url": "https://www.taraztechnologies.com/careers",
+      "status": "checked",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Taraz+Technologies+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Taraz+Technologies+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Bureau Veritas Pakistan",
+      "category": "Multinationals & Conglomerates",
+      "checked_url": "https://group.bureauveritas.com/careers",
+      "status": "checked",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Bureau+Veritas+Pakistan+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Bureau+Veritas+Pakistan+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "GRID Systems (Pvt) Ltd",
+      "category": "Startups & Smaller Tech/Engineering Firms",
+      "checked_url": "https://www.gridsystems.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=GRID+Systems+%28Pvt%29+Ltd+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=GRID+Systems+%28Pvt%29+Ltd+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Capital Constructors and Builders",
+      "category": "Engineering Consultancy & Construction",
+      "checked_url": "https://www.capitalconstructors.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Capital+Constructors+and+Builders+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Capital+Constructors+and+Builders+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Avanceon",
+      "category": "Robotics & Automation Startups",
+      "checked_url": "https://www.avanceon.com/careers",
+      "status": "checked",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Avanceon+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Avanceon+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Shibli (Pvt) Ltd",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.shibli.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Shibli+%28Pvt%29+Ltd+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Shibli+%28Pvt%29+Ltd+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "The Value Engineering",
+      "category": "Engineering Consultancy & Construction",
+      "checked_url": "https://www.thevalueengineering.com/careers",
+      "status": "checked",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=The+Value+Engineering+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=The+Value+Engineering+mechanical+engineer+intern&l=Islamabad"
       }
     }
   ]
