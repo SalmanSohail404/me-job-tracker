@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ME Trainee/Internship Tracker - Islamabad &amp; Rawalpindi</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --card: #1a2230;
+    --card-border: #2a3548;
+    --accent: #4dabf7;
+    --green: #51cf66;
+    --yellow: #ffd43b;
+    --red: #ff6b6b;
+    --gray: #868e96;
+    --text: #e9ecef;
+    --text-dim: #adb5bd;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    padding: 24px;
+  }
+  header {
+    max-width: 1000px;
+    margin: 0 auto 24px auto;
+  }
+  h1 {
+    font-size: 1.6rem;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    color: var(--text-dim);
+    font-size: 0.95rem;
+  }
+  #generated {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin-top: 8px;
+  }
+  .controls {
+    max-width: 1000px;
+    margin: 0 auto 20px auto;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .controls input, .controls select {
+    background: var(--card);
+    border: 1px solid var(--card-border);
+    color: var(--text);
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+  }
+  .controls input { flex: 1; min-width: 200px; }
+  main { max-width: 1000px; margin: 0 auto; }
+  .category {
+    margin-bottom: 28px;
+  }
+  .category h2 {
+    font-size: 1.1rem;
+    color: var(--accent);
+    border-bottom: 1px solid var(--card-border);
+    padding-bottom: 6px;
+    margin-bottom: 12px;
+  }
+  .company-card {
+    background: var(--card);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+  .company-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .company-name {
+    font-weight: 600;
+    font-size: 1.02rem;
+  }
+  .status {
+    font-size: 0.75rem;
+    padding: 3px 9px;
+    border-radius: 999px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .status.matches_found { background: rgba(81,207,102,0.15); color: var(--green); }
+  .status.checked { background: rgba(134,142,150,0.15); color: var(--gray); }
+  .status.homepage_only { background: rgba(255,212,59,0.15); color: var(--yellow); }
+  .status.unreachable, .status.error { background: rgba(255,107,107,0.15); color: var(--red); }
+
+  .postings {
+    margin-top: 10px;
+    padding-left: 0;
+    list-style: none;
+  }
+  .postings li {
+    padding: 6px 0;
+    border-top: 1px solid var(--card-border);
+    font-size: 0.92rem;
+  }
+  .postings li a { color: var(--accent); text-decoration: none; }
+  .postings li a:hover { text-decoration: underline; }
+
+  .links-row {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    font-size: 0.85rem;
+  }
+  .links-row a {
+    color: var(--text-dim);
+    text-decoration: none;
+    border: 1px solid var(--card-border);
+    padding: 4px 10px;
+    border-radius: 6px;
+  }
+  .links-row a:hover { color: var(--accent); border-color: var(--accent); }
+
+  .empty-note {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin-top: 8px;
+    font-style: italic;
+  }
+
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🔧 ME Trainee / Internship Tracker</h1>
+  <div class="subtitle">Mechanical engineering trainee &amp; internship openings — Islamabad &amp; Rawalpindi (incl. Taxila/Wah)</div>
+  <div id="generated">Loading...</div>
+</header>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Filter by company name...">
+  <select id="statusFilter">
+    <option value="all">All statuses</option>
+    <option value="matches_found">Postings found</option>
+    <option value="checked">Checked, no match</option>
+    <option value="homepage_only">Careers page not found</option>
+    <option value="unreachable">Unreachable</option>
+  </select>
+</div>
+
+<main id="main">
+  <p>Loading data...</p>
+</main>
+
+<script>
+const statusLabels = {
+  matches_found: "Postings found",
+  checked: "Checked — no current match",
+  homepage_only: "Careers page not found",
+  unreachable: "Site unreachable",
+  error: "Error checking site"
+};
+
+let allData = null;
+
+async function load() {
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    allData = await res.json();
+    document.getElementById('generated').textContent =
+      'Last checked: ' + new Date(allData.generated_at).toLocaleString();
+    render();
+  } catch (e) {
+    document.getElementById('main').innerHTML =
+      '<p>Could not load data.json yet. Once the scraper runs for the first time (via GitHub Actions), results will appear here.</p>';
+  }
+}
+
+function render() {
+  const search = document.getElementById('search').value.toLowerCase();
+  const statusFilter = document.getElementById('statusFilter').value;
+
+  const byCategory = {};
+  for (const c of allData.companies) {
+    if (search && !c.name.toLowerCase().includes(search)) continue;
+    if (statusFilter !== 'all' && c.status !== statusFilter) continue;
+    if (!byCategory[c.category]) byCategory[c.category] = [];
+    byCategory[c.category].push(c);
+  }
+
+  const main = document.getElementById('main');
+  main.innerHTML = '';
+
+  const categories = Object.keys(byCategory).sort();
+  if (categories.length === 0) {
+    main.innerHTML = '<p>No companies match your filters.</p>';
+    return;
+  }
+
+  for (const cat of categories) {
+    const section = document.createElement('div');
+    section.className = 'category';
+    section.innerHTML = `<h2>${cat}</h2>`;
+
+    for (const c of byCategory[cat]) {
+      const card = document.createElement('div');
+      card.className = 'company-card';
+
+      let postingsHtml = '';
+      if (c.postings && c.postings.length) {
+        postingsHtml = '<ul class="postings">' + c.postings.map(p =>
+          `<li><a href="${p.link}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a></li>`
+        ).join('') + '</ul>';
+      } else if (c.status === 'matches_found') {
+        // shouldn't happen, but just in case
+      } else {
+        postingsHtml = '<div class="empty-note">No mechanical engineering trainee/internship postings detected right now.</div>';
+      }
+
+      card.innerHTML = `
+        <div class="company-head">
+          <div class="company-name">${escapeHtml(c.name)}</div>
+          <div class="status ${c.status}">${statusLabels[c.status] || c.status}</div>
+        </div>
+        ${postingsHtml}
+        <div class="links-row">
+          <a href="${c.checked_url}" target="_blank" rel="noopener">Careers page ↗</a>
+          <a href="${c.external_search.linkedin}" target="_blank" rel="noopener">LinkedIn search ↗</a>
+          <a href="${c.external_search.indeed}" target="_blank" rel="noopener">Indeed search ↗</a>
+        </div>
+      `;
+      section.appendChild(card);
+    }
+    main.appendChild(section);
+  }
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('statusFilter').addEventListener('change', render);
+
+load();
+</script>
+</body>
+</html>

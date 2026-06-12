@@ -1,0 +1,335 @@
+{
+  "generated_at": "2026-06-12T07:26:07.223374+00:00",
+  "companies": [
+    {
+      "name": "Heavy Industries Taxila (HIT)",
+      "category": "Defense & Heavy Engineering",
+      "checked_url": "https://hit.gov.pk/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Heavy+Industries+Taxila+%28HIT%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Heavy+Industries+Taxila+%28HIT%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Heavy Mechanical Complex (HMC)",
+      "category": "Defense & Heavy Engineering",
+      "checked_url": "https://www.hmc.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Heavy+Mechanical+Complex+%28HMC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Heavy+Mechanical+Complex+%28HMC%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Pakistan Ordnance Factories (POF)",
+      "category": "Defense & Heavy Engineering",
+      "checked_url": "https://www.pof.gov.pk/site/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Pakistan+Ordnance+Factories+%28POF%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Pakistan+Ordnance+Factories+%28POF%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Pakistan Aeronautical Complex (PAC Kamra)",
+      "category": "Defense & Heavy Engineering",
+      "checked_url": "https://www.pac.org.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Pakistan+Aeronautical+Complex+%28PAC+Kamra%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Pakistan+Aeronautical+Complex+%28PAC+Kamra%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Global Industrial & Defence Solutions (GIDS)",
+      "category": "Defense & Heavy Engineering",
+      "checked_url": "https://www.gids.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Global+Industrial+%26+Defence+Solutions+%28GIDS%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Global+Industrial+%26+Defence+Solutions+%28GIDS%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Fauji Cement Company Ltd (FCCL)",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://fccl.com.pk/eng/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Fauji+Cement+Company+Ltd+%28FCCL%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Fauji+Cement+Company+Ltd+%28FCCL%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "D.G. Khan Cement",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://www.dgcement.com/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=D.G.+Khan+Cement+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=D.G.+Khan+Cement+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Attock Cement Pakistan",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://www.attockcement.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Attock+Cement+Pakistan+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Attock+Cement+Pakistan+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Bestway Cement",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://www.bestwaycement.com.pk/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Bestway+Cement+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Bestway+Cement+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Mari Petroleum Company Ltd (MPCL)",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://www.mpcl.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Mari+Petroleum+Company+Ltd+%28MPCL%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Mari+Petroleum+Company+Ltd+%28MPCL%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Attock Refinery Ltd (ARL)",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://www.arl.com.pk/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Attock+Refinery+Ltd+%28ARL%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Attock+Refinery+Ltd+%28ARL%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Fauji Fertilizer Company (FFC)",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://www.ffc.com.pk/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Fauji+Fertilizer+Company+%28FFC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Fauji+Fertilizer+Company+%28FFC%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "National Transmission & Despatch Company (NTDC)",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://www.ntdc.gov.pk/jobs",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Islamabad Electric Supply Company (IESCO)",
+      "category": "Cement, Fertilizer & Energy",
+      "checked_url": "https://www.iesco.com.pk/jobs/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Islamabad+Electric+Supply+Company+%28IESCO%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Islamabad+Electric+Supply+Company+%28IESCO%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "NESPAK",
+      "category": "Engineering Consultancy & Construction",
+      "checked_url": "https://www.nespak.com.pk/Careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=NESPAK+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=NESPAK+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Descon Engineering",
+      "category": "Engineering Consultancy & Construction",
+      "checked_url": "https://www.descon.com/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Descon+Engineering+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Descon+Engineering+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Frontier Works Organization (FWO)",
+      "category": "Engineering Consultancy & Construction",
+      "checked_url": "https://www.fwo.com.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Frontier+Works+Organization+%28FWO%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Frontier+Works+Organization+%28FWO%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "National Logistics Cell (NLC)",
+      "category": "Engineering Consultancy & Construction",
+      "checked_url": "https://www.nlc.com.pk/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Logistics+Cell+%28NLC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=National+Logistics+Cell+%28NLC%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Rastgar Engineering Company",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.rastgar.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Rastgar+Engineering+Company+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Rastgar+Engineering+Company+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Hikmat Pump (Pvt) Ltd",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.hikmatpump.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Hikmat+Pump+%28Pvt%29+Ltd+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Hikmat+Pump+%28Pvt%29+Ltd+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Devomech Solutions",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.devomech.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Devomech+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Devomech+Solutions+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Kozmek Engineering",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.kozmek.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Kozmek+Engineering+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Kozmek+Engineering+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Mechatronix Solutions",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.mechatronixsolutions.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Mechatronix+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Mechatronix+Solutions+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Adams Fire Tech (Pvt) Ltd",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.adamsfiretech.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Adams+Fire+Tech+%28Pvt%29+Ltd+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Adams+Fire+Tech+%28Pvt%29+Ltd+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Reckon Consulting Engineers",
+      "category": "Private Engineering & Manufacturing Firms",
+      "checked_url": "https://www.reckonconsulting.com/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Reckon+Consulting+Engineers+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Reckon+Consulting+Engineers+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Unilever Pakistan",
+      "category": "Multinationals & Conglomerates",
+      "checked_url": "https://www.unilevercareers.com/Pakistan",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Unilever+Pakistan+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Unilever+Pakistan+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Lucky Core Industries (ICI Pakistan)",
+      "category": "Multinationals & Conglomerates",
+      "checked_url": "https://www.luckycore.com/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Lucky+Core+Industries+%28ICI+Pakistan%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Lucky+Core+Industries+%28ICI+Pakistan%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Engro Corporation",
+      "category": "Multinationals & Conglomerates",
+      "checked_url": "https://www.engro.com/careers/",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Engro+Corporation+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Engro+Corporation+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Siemens Pakistan",
+      "category": "Multinationals & Conglomerates",
+      "checked_url": "https://www.siemens.com/pk/en/company/jobs.html",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Siemens+Pakistan+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Siemens+Pakistan+mechanical+engineer+intern&l=Islamabad"
+      }
+    },
+    {
+      "name": "Fauji Foundation (Group Careers Portal)",
+      "category": "Multinationals & Conglomerates",
+      "checked_url": "https://www.fauji.org.pk/careers",
+      "status": "unreachable",
+      "postings": [],
+      "external_search": {
+        "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Fauji+Foundation+%28Group+Careers+Portal%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
+        "indeed": "https://pk.indeed.com/jobs?q=Fauji+Foundation+%28Group+Careers+Portal%29+mechanical+engineer+intern&l=Islamabad"
+      }
+    }
+  ]
+}

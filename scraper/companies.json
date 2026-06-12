@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Heavy Industries Taxila (HIT)",
+    "category": "Defense & Heavy Engineering",
+    "careers_url": "https://hit.gov.pk/careers/",
+    "fallback_url": "https://hit.gov.pk/"
+  },
+  {
+    "name": "Heavy Mechanical Complex (HMC)",
+    "category": "Defense & Heavy Engineering",
+    "careers_url": "https://www.hmc.com.pk/careers",
+    "fallback_url": "https://www.hmc.com.pk/"
+  },
+  {
+    "name": "Pakistan Ordnance Factories (POF)",
+    "category": "Defense & Heavy Engineering",
+    "careers_url": "https://www.pof.gov.pk/site/careers",
+    "fallback_url": "https://www.pof.gov.pk/"
+  },
+  {
+    "name": "Pakistan Aeronautical Complex (PAC Kamra)",
+    "category": "Defense & Heavy Engineering",
+    "careers_url": "https://www.pac.org.pk/careers",
+    "fallback_url": "https://www.pac.org.pk/"
+  },
+  {
+    "name": "Global Industrial & Defence Solutions (GIDS)",
+    "category": "Defense & Heavy Engineering",
+    "careers_url": "https://www.gids.com.pk/careers",
+    "fallback_url": "https://www.gids.com.pk/"
+  },
+  {
+    "name": "Fauji Cement Company Ltd (FCCL)",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://fccl.com.pk/eng/careers/",
+    "fallback_url": "https://fccl.com.pk/"
+  },
+  {
+    "name": "D.G. Khan Cement",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://www.dgcement.com/careers/",
+    "fallback_url": "https://www.dgcement.com/"
+  },
+  {
+    "name": "Attock Cement Pakistan",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://www.attockcement.com/careers",
+    "fallback_url": "https://www.attockcement.com/"
+  },
+  {
+    "name": "Bestway Cement",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://www.bestwaycement.com.pk/careers/",
+    "fallback_url": "https://www.bestwaycement.com.pk/"
+  },
+  {
+    "name": "Mari Petroleum Company Ltd (MPCL)",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://www.mpcl.com.pk/careers",
+    "fallback_url": "https://www.mpcl.com.pk/"
+  },
+  {
+    "name": "Attock Refinery Ltd (ARL)",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://www.arl.com.pk/careers/",
+    "fallback_url": "https://www.arl.com.pk/"
+  },
+  {
+    "name": "Fauji Fertilizer Company (FFC)",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://www.ffc.com.pk/careers/",
+    "fallback_url": "https://www.ffc.com.pk/"
+  },
+  {
+    "name": "National Transmission & Despatch Company (NTDC)",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://www.ntdc.gov.pk/jobs",
+    "fallback_url": "https://www.ntdc.gov.pk/"
+  },
+  {
+    "name": "Islamabad Electric Supply Company (IESCO)",
+    "category": "Cement, Fertilizer & Energy",
+    "careers_url": "https://www.iesco.com.pk/jobs/",
+    "fallback_url": "https://www.iesco.com.pk/"
+  },
+  {
+    "name": "NESPAK",
+    "category": "Engineering Consultancy & Construction",
+    "careers_url": "https://www.nespak.com.pk/Careers",
+    "fallback_url": "https://www.nespak.com.pk/"
+  },
+  {
+    "name": "Descon Engineering",
+    "category": "Engineering Consultancy & Construction",
+    "careers_url": "https://www.descon.com/careers/",
+    "fallback_url": "https://www.descon.com/"
+  },
+  {
+    "name": "Frontier Works Organization (FWO)",
+    "category": "Engineering Consultancy & Construction",
+    "careers_url": "https://www.fwo.com.pk/careers",
+    "fallback_url": "https://www.fwo.com.pk/"
+  },
+  {
+    "name": "National Logistics Cell (NLC)",
+    "category": "Engineering Consultancy & Construction",
+    "careers_url": "https://www.nlc.com.pk/careers/",
+    "fallback_url": "https://www.nlc.com.pk/"
+  },
+  {
+    "name": "Rastgar Engineering Company",
+    "category": "Private Engineering & Manufacturing Firms",
+    "careers_url": "https://www.rastgar.com/careers",
+    "fallback_url": "https://www.rastgar.com/"
+  },
+  {
+    "name": "Hikmat Pump (Pvt) Ltd",
+    "category": "Private Engineering & Manufacturing Firms",
+    "careers_url": "https://www.hikmatpump.com/careers",
+    "fallback_url": "https://www.hikmatpump.com/"
+  },
+  {
+    "name": "Devomech Solutions",
+    "category": "Private Engineering & Manufacturing Firms",
+    "careers_url": "https://www.devomech.com/careers",
+    "fallback_url": "https://www.devomech.com/"
+  },
+  {
+    "name": "Kozmek Engineering",
+    "category": "Private Engineering & Manufacturing Firms",
+    "careers_url": "https://www.kozmek.com/careers",
+    "fallback_url": "https://www.kozmek.com/"
+  },
+  {
+    "name": "Mechatronix Solutions",
+    "category": "Private Engineering & Manufacturing Firms",
+    "careers_url": "https://www.mechatronixsolutions.com/careers",
+    "fallback_url": "https://www.mechatronixsolutions.com/"
+  },
+  {
+    "name": "Adams Fire Tech (Pvt) Ltd",
+    "category": "Private Engineering & Manufacturing Firms",
+    "careers_url": "https://www.adamsfiretech.com/careers",
+    "fallback_url": "https://www.adamsfiretech.com/"
+  },
+  {
+    "name": "Reckon Consulting Engineers",
+    "category": "Private Engineering & Manufacturing Firms",
+    "careers_url": "https://www.reckonconsulting.com/careers",
+    "fallback_url": "https://www.reckonconsulting.com/"
+  },
+  {
+    "name": "Unilever Pakistan",
+    "category": "Multinationals & Conglomerates",
+    "careers_url": "https://www.unilevercareers.com/Pakistan",
+    "fallback_url": "https://www.unilever.com.pk/"
+  },
+  {
+    "name": "Lucky Core Industries (ICI Pakistan)",
+    "category": "Multinationals & Conglomerates",
+    "careers_url": "https://www.luckycore.com/careers/",
+    "fallback_url": "https://www.luckycore.com/"
+  },
+  {
+    "name": "Engro Corporation",
+    "category": "Multinationals & Conglomerates",
+    "careers_url": "https://www.engro.com/careers/",
+    "fallback_url": "https://www.engro.com/"
+  },
+  {
+    "name": "Siemens Pakistan",
+    "category": "Multinationals & Conglomerates",
+    "careers_url": "https://www.siemens.com/pk/en/company/jobs.html",
+    "fallback_url": "https://www.siemens.com/pk/en/"
+  },
+  {
+    "name": "Fauji Foundation (Group Careers Portal)",
+    "category": "Multinationals & Conglomerates",
+    "careers_url": "https://www.fauji.org.pk/careers",
+    "fallback_url": "https://www.fauji.org.pk/"
+  },
+  {
+    "name": "Suzuki Islamabad Motors",
+    "category": "Automotive",
+    "careers_url": "https://www.suzukislamabad.com/careers",
+    "fallback_url": "https://www.suzukislamabad.com/"
+  },
+  {
+    "name": "Toyota Capital Motors (Islamabad dealership)",
+    "category": "Automotive",
+    "careers_url": "https://www.toyota-capitalmotors.com.pk/careers",
+    "fallback_url": "https://www.toyota-capitalmotors.com.pk/"
+  },
+  {
+    "name": "Honda Khan Resham Motors (Islamabad/Rawalpindi dealership)",
+    "category": "Automotive",
+    "careers_url": "https://www.khanreshamhonda.com/careers",
+    "fallback_url": "https://www.khanreshamhonda.com/"
+  },
+  {
+    "name": "MEP Solutions",
+    "category": "MEP & HVAC Contractors",
+    "careers_url": "https://www.mepsolutions.com.pk/careers",
+    "fallback_url": "https://www.mepsolutions.com.pk/"
+  },
+  {
+    "name": "CA Block Engineering & Consultants",
+    "category": "MEP & HVAC Contractors",
+    "careers_url": "https://www.cablockeng.com/careers",
+    "fallback_url": "https://www.cablockeng.com/"
+  },
+  {
+    "name": "Catkin Engineering Sale & Services",
+    "category": "MEP & HVAC Contractors",
+    "careers_url": "https://www.catkinengineering.com/careers",
+    "fallback_url": "https://www.catkinengineering.com/"
+  },
+  {
+    "name": "Premier Tubular Inspection Services",
+    "category": "MEP & HVAC Contractors",
+    "careers_url": "https://www.premiertubular.com/careers",
+    "fallback_url": "https://www.premiertubular.com/"
+  },
+  {
+    "name": "Karachi Steel Re-Rolling Mills (KSR)",
+    "category": "I-9/I-10 Industrial Area Manufacturers",
+    "careers_url": "https://www.ksrmills.com/careers",
+    "fallback_url": "https://www.ksrmills.com/"
+  },
+  {
+    "name": "Gandaf Steel Industries",
+    "category": "I-9/I-10 Industrial Area Manufacturers",
+    "careers_url": "https://www.gandafsteel.com/careers",
+    "fallback_url": "https://www.gandafsteel.com/"
+  },
+  {
+    "name": "EngineeringBox (SMC) Pvt Ltd",
+    "category": "I-9/I-10 Industrial Area Manufacturers",
+    "careers_url": "https://www.engineeringbox.com/careers",
+    "fallback_url": "https://www.engineeringbox.com/"
+  },
+  {
+    "name": "MechioniX",
+    "category": "Robotics & Automation Startups",
+    "careers_url": "https://www.mechionix.com/careers",
+    "fallback_url": "https://www.mechionix.com/"
+  },
+  {
+    "name": "Cowlar Design Studio",
+    "category": "Robotics & Automation Startups",
+    "careers_url": "https://www.cowlar.com/careers",
+    "fallback_url": "https://www.cowlar.com/"
+  },
+  {
+    "name": "National Centre of Robotics and Automation (NCRA)",
+    "category": "Robotics & Automation Startups",
+    "careers_url": "https://ncra.org.pk/careers",
+    "fallback_url": "https://ncra.org.pk/"
+  }
+]
