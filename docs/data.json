@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T08:38:17.211512+00:00",
+  "generated_at": "2026-06-21T09:13:14.150296+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -225,8 +225,13 @@
       "name": "Devomech Solutions",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.devomech.com/careers",
-      "status": "unreachable",
-      "postings": [],
+      "status": "matches_found",
+      "postings": [
+        {
+          "title": "Trainee Embedded Systems EngineerElectronicsFull TimeIslamabad0-1 yearBS in Computer Science or Software Engineering or a related field. BS in Electronics or similarMore Details",
+          "link": "https://devomech.com/application/trainee-embedded-systems-engineer/"
+        }
+      ],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Devomech+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
         "indeed": "https://pk.indeed.com/jobs?q=Devomech+Solutions+mechanical+engineer+intern&l=Islamabad"
