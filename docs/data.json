@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:38:05.399127+00:00",
+  "generated_at": "2026-06-25T08:46:47.454621+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -214,7 +214,7 @@
       "name": "Hikmat Pump (Pvt) Ltd",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.hikmatpump.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Hikmat+Pump+%28Pvt%29+Ltd+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -225,13 +225,8 @@
       "name": "Devomech Solutions",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.devomech.com/careers",
-      "status": "matches_found",
-      "postings": [
-        {
-          "title": "Trainee Embedded Systems EngineerElectronicsFull TimeIslamabad0-1 yearBS in Computer Science or Software Engineering or a related field. BS in Electronics or similarMore Details",
-          "link": "https://devomech.com/application/trainee-embedded-systems-engineer/"
-        }
-      ],
+      "status": "unreachable",
+      "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Devomech+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
         "indeed": "https://pk.indeed.com/jobs?q=Devomech+Solutions+mechanical+engineer+intern&l=Islamabad"
@@ -240,8 +235,8 @@
     {
       "name": "Kozmek Engineering",
       "category": "Private Engineering & Manufacturing Firms",
-      "checked_url": "https://www.kozmek.com/",
-      "status": "homepage_only",
+      "checked_url": "https://www.kozmek.com/careers",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Kozmek+Engineering+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -411,7 +406,7 @@
       "name": "Premier Tubular Inspection Services",
       "category": "MEP & HVAC Contractors",
       "checked_url": "https://www.premiertubular.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Premier+Tubular+Inspection+Services+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -531,8 +526,8 @@
     {
       "name": "Maxitech Pharma",
       "category": "Pharmaceutical & FMCG Manufacturing",
-      "checked_url": "https://www.maxitechpharma.com/",
-      "status": "homepage_only",
+      "checked_url": "https://www.maxitechpharma.com/careers",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Maxitech+Pharma+mechanical+engineer&location=Islamabad%2C+Pakistan",
