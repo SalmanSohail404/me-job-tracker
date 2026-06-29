@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:36:50.907686+00:00",
+  "generated_at": "2026-06-29T09:57:26.587517+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -251,8 +251,8 @@
     {
       "name": "Mechatronix Solutions",
       "category": "Private Engineering & Manufacturing Firms",
-      "checked_url": "https://www.mechatronixsolutions.com/",
-      "status": "homepage_only",
+      "checked_url": "https://www.mechatronixsolutions.com/careers",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Mechatronix+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -274,7 +274,7 @@
       "name": "Reckon Consulting Engineers",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.reckonconsulting.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Reckon+Consulting+Engineers+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -444,7 +444,7 @@
       "name": "EngineeringBox (SMC) Pvt Ltd",
       "category": "I-9/I-10 Industrial Area Manufacturers",
       "checked_url": "https://www.engineeringbox.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=EngineeringBox+%28SMC%29+Pvt+Ltd+mechanical+engineer&location=Islamabad%2C+Pakistan",
