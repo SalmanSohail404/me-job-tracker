@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T08:47:05.435496+00:00",
+  "generated_at": "2026-07-10T08:34:43.683893+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
       "category": "Defense & Heavy Engineering",
-      "checked_url": "https://hit.gov.pk/careers/",
-      "status": "unreachable",
+      "checked_url": "https://hit.gov.pk/",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Heavy+Industries+Taxila+%28HIT%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -505,7 +505,7 @@
       "name": "Wilson's Pharma Group",
       "category": "Pharmaceutical & FMCG Manufacturing",
       "checked_url": "https://www.wilsonspharma.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Wilson%27s+Pharma+Group+mechanical+engineer&location=Islamabad%2C+Pakistan",
