@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:22:58.427680+00:00",
+  "generated_at": "2026-07-12T07:40:15.712780+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -81,7 +81,7 @@
     {
       "name": "Attock Cement Pakistan",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.attockcement.com/human-resource/#1",
+      "checked_url": "https://www.attockcement.com/careers",
       "status": "checked",
       "postings": [],
       "external_search": {
@@ -493,7 +493,7 @@
     {
       "name": "Davis Pharmaceutical Laboratories",
       "category": "Pharmaceutical & FMCG Manufacturing",
-      "checked_url": "https://davispharma.com/career/",
+      "checked_url": "https://www.davispharma.com/careers",
       "status": "checked",
       "postings": [],
       "external_search": {
@@ -504,8 +504,8 @@
     {
       "name": "Wilson's Pharma Group",
       "category": "Pharmaceutical & FMCG Manufacturing",
-      "checked_url": "https://www.wilsonspharma.com/",
-      "status": "homepage_only",
+      "checked_url": "https://www.wilsonspharma.com/careers",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Wilson%27s+Pharma+Group+mechanical+engineer&location=Islamabad%2C+Pakistan",
