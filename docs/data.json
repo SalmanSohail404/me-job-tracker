@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T08:29:38.626587+00:00",
+  "generated_at": "2026-07-14T07:21:49.000754+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -147,8 +147,8 @@
     {
       "name": "Islamabad Electric Supply Company (IESCO)",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.iesco.com.pk/jobs/",
-      "status": "unreachable",
+      "checked_url": "https://www.iesco.com.pk/careers",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Islamabad+Electric+Supply+Company+%28IESCO%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
