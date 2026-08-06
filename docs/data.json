@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:53:47.324651+00:00",
+  "generated_at": "2026-08-06T07:52:03.734672+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -225,7 +225,7 @@
       "name": "Devomech Solutions",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.devomech.com/careers",
-      "status": "unreachable",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Devomech+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -471,8 +471,8 @@
     {
       "name": "National Centre of Robotics and Automation (NCRA)",
       "category": "Robotics & Automation Startups",
-      "checked_url": "https://ncra.org.pk/careers",
-      "status": "unreachable",
+      "checked_url": "https://ncra.org.pk/",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Centre+of+Robotics+and+Automation+%28NCRA%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
