@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:52:03.734672+00:00",
+  "generated_at": "2026-08-07T06:19:21.257356+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -136,8 +136,8 @@
     {
       "name": "National Transmission & Despatch Company (NTDC)",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.ntdc.gov.pk/",
-      "status": "homepage_only",
+      "checked_url": "https://www.ntdc.gov.pk/jobs",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -225,7 +225,7 @@
       "name": "Devomech Solutions",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.devomech.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Devomech+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -571,7 +571,7 @@
       "name": "TheX Solutions",
       "category": "Startups & Smaller Tech/Engineering Firms",
       "checked_url": "https://www.thexsolutions.com/careers",
-      "status": "unreachable",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=TheX+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
