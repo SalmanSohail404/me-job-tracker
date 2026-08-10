@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T05:57:44.075745+00:00",
+  "generated_at": "2026-08-10T06:21:26.761927+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -647,8 +647,8 @@
     {
       "name": "SEEE Technologies",
       "category": "Solar & Renewable Energy",
-      "checked_url": "https://www.seeetech.com/",
-      "status": "homepage_only",
+      "checked_url": "https://www.seeetech.com/careers",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=SEEE+Technologies+mechanical+engineer&location=Islamabad%2C+Pakistan",
