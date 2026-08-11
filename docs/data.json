@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:21:26.761927+00:00",
+  "generated_at": "2026-08-11T06:06:59.824156+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -93,7 +93,7 @@
       "name": "Bestway Cement",
       "category": "Cement, Fertilizer & Energy",
       "checked_url": "https://www.bestwaycement.com.pk/careers/",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Bestway+Cement+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -225,8 +225,13 @@
       "name": "Devomech Solutions",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.devomech.com/careers",
-      "status": "checked",
-      "postings": [],
+      "status": "matches_found",
+      "postings": [
+        {
+          "title": "Junior AI & Process Automation EngineerSoftwareFull TimeIslamabad0-1 yearBS in Computer Science or Software Engineering or a related field.More Details",
+          "link": "https://devomech.com/application/junior-ai-process-automation-engineer/"
+        }
+      ],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Devomech+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
         "indeed": "https://pk.indeed.com/jobs?q=Devomech+Solutions+mechanical+engineer+intern&l=Islamabad"
