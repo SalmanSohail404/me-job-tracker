@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:41:24.950683+00:00",
+  "generated_at": "2026-08-15T05:52:56.949141+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -576,7 +576,7 @@
       "name": "TheX Solutions",
       "category": "Startups & Smaller Tech/Engineering Firms",
       "checked_url": "https://www.thexsolutions.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=TheX+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
