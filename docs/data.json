@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:40:56.172042+00:00",
+  "generated_at": "2026-08-17T05:45:50.944011+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -81,7 +81,7 @@
     {
       "name": "Attock Cement Pakistan",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.attockcement.com/human-resource/#1",
+      "checked_url": "https://www.attockcement.com/careers",
       "status": "checked",
       "postings": [],
       "external_search": {
@@ -136,8 +136,8 @@
     {
       "name": "National Transmission & Despatch Company (NTDC)",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.ntdc.gov.pk/",
-      "status": "homepage_only",
+      "checked_url": "https://www.ntdc.gov.pk/jobs",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -498,7 +498,7 @@
     {
       "name": "Davis Pharmaceutical Laboratories",
       "category": "Pharmaceutical & FMCG Manufacturing",
-      "checked_url": "https://davispharma.com/career/",
+      "checked_url": "https://www.davispharma.com/careers",
       "status": "checked",
       "postings": [],
       "external_search": {
@@ -576,7 +576,7 @@
       "name": "TheX Solutions",
       "category": "Startups & Smaller Tech/Engineering Firms",
       "checked_url": "https://www.thexsolutions.com/careers",
-      "status": "unreachable",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=TheX+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -586,8 +586,8 @@
     {
       "name": "Kwick High Tech & Solutions",
       "category": "Startups & Smaller Tech/Engineering Firms",
-      "checked_url": "https://www.kwickhightech.com/careers",
-      "status": "unreachable",
+      "checked_url": "https://www.kwickhightech.com/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Kwick+High+Tech+%26+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
