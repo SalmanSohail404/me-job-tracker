@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:48:43.855988+00:00",
+  "generated_at": "2026-08-21T05:44:05.805639+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -158,8 +158,8 @@
     {
       "name": "NESPAK",
       "category": "Engineering Consultancy & Construction",
-      "checked_url": "https://www.nespak.com.pk/career.html",
-      "status": "checked",
+      "checked_url": "https://www.nespak.com.pk/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=NESPAK+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -454,8 +454,8 @@
     {
       "name": "MechioniX",
       "category": "Robotics & Automation Startups",
-      "checked_url": "https://www.mechionix.com/careers",
-      "status": "unreachable",
+      "checked_url": "https://www.mechionix.com/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=MechioniX+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -608,8 +608,8 @@
     {
       "name": "Eastern Highway Company",
       "category": "Startups & Smaller Tech/Engineering Firms",
-      "checked_url": "https://www.easternhighway.com/careers",
-      "status": "unreachable",
+      "checked_url": "https://www.easternhighway.com/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Eastern+Highway+Company+mechanical+engineer&location=Islamabad%2C+Pakistan",
