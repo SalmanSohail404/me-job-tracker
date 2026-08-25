@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:48:39.953618+00:00",
+  "generated_at": "2026-08-25T05:43:25.418309+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -16,7 +16,7 @@
       "name": "Heavy Mechanical Complex (HMC)",
       "category": "Defense & Heavy Engineering",
       "checked_url": "https://www.hmc.com.pk/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Heavy+Mechanical+Complex+%28HMC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -93,7 +93,7 @@
       "name": "Bestway Cement",
       "category": "Cement, Fertilizer & Energy",
       "checked_url": "https://www.bestwaycement.com.pk/careers/",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Bestway+Cement+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -136,8 +136,8 @@
     {
       "name": "National Transmission & Despatch Company (NTDC)",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.ntdc.gov.pk/jobs",
-      "status": "checked",
+      "checked_url": "https://www.ntdc.gov.pk/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -213,8 +213,8 @@
     {
       "name": "Hikmat Pump (Pvt) Ltd",
       "category": "Private Engineering & Manufacturing Firms",
-      "checked_url": "https://www.hikmatpump.com/careers",
-      "status": "unreachable",
+      "checked_url": "https://www.hikmatpump.com/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Hikmat+Pump+%28Pvt%29+Ltd+mechanical+engineer&location=Islamabad%2C+Pakistan",
