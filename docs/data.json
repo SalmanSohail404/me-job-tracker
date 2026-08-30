@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:39:43.893140+00:00",
+  "generated_at": "2026-08-30T10:31:14.581828+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -136,8 +136,8 @@
     {
       "name": "National Transmission & Despatch Company (NTDC)",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.ntdc.gov.pk/jobs",
-      "status": "checked",
+      "checked_url": "https://www.ntdc.gov.pk/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
