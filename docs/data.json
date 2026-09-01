@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T11:35:09.842355+00:00",
+  "generated_at": "2026-09-01T09:57:39.394388+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -48,8 +48,8 @@
     {
       "name": "Global Industrial & Defence Solutions (GIDS)",
       "category": "Defense & Heavy Engineering",
-      "checked_url": "https://www.gids.com.pk/careers",
-      "status": "unreachable",
+      "checked_url": "https://www.gids.com.pk/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Global+Industrial+%26+Defence+Solutions+%28GIDS%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -158,8 +158,8 @@
     {
       "name": "NESPAK",
       "category": "Engineering Consultancy & Construction",
-      "checked_url": "https://www.nespak.com.pk/",
-      "status": "homepage_only",
+      "checked_url": "https://www.nespak.com.pk/careers/careers.html",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=NESPAK+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -586,8 +586,8 @@
     {
       "name": "Kwick High Tech & Solutions",
       "category": "Startups & Smaller Tech/Engineering Firms",
-      "checked_url": "https://www.kwickhightech.com/careers",
-      "status": "unreachable",
+      "checked_url": "https://www.kwickhightech.com/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Kwick+High+Tech+%26+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
