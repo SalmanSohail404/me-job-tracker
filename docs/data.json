@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:11:14.132866+00:00",
+  "generated_at": "2026-09-08T09:44:43.101695+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -136,8 +136,8 @@
     {
       "name": "National Transmission & Despatch Company (NTDC)",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.ntdc.gov.pk/",
-      "status": "homepage_only",
+      "checked_url": "https://www.ntdc.gov.pk/jobs",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -269,7 +269,7 @@
       "name": "Reckon Consulting Engineers",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.reckonconsulting.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Reckon+Consulting+Engineers+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -439,7 +439,7 @@
       "name": "EngineeringBox (SMC) Pvt Ltd",
       "category": "I-9/I-10 Industrial Area Manufacturers",
       "checked_url": "https://www.engineeringbox.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=EngineeringBox+%28SMC%29+Pvt+Ltd+mechanical+engineer&location=Islamabad%2C+Pakistan",
