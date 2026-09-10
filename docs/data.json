@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:49:23.156599+00:00",
+  "generated_at": "2026-09-10T09:52:34.593085+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -60,7 +60,7 @@
       "name": "Fauji Cement Company Ltd (FCCL)",
       "category": "Cement, Fertilizer & Energy",
       "checked_url": "https://fccl.com.pk/eng/careers/",
-      "status": "unreachable",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Fauji+Cement+Company+Ltd+%28FCCL%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -158,8 +158,8 @@
     {
       "name": "NESPAK",
       "category": "Engineering Consultancy & Construction",
-      "checked_url": "https://www.nespak.com.pk/",
-      "status": "homepage_only",
+      "checked_url": "https://www.nespak.com.pk/careers/careers.html",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=NESPAK+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -449,8 +449,8 @@
     {
       "name": "MechioniX",
       "category": "Robotics & Automation Startups",
-      "checked_url": "https://www.mechionix.com/",
-      "status": "homepage_only",
+      "checked_url": "https://www.mechionix.com/careers",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=MechioniX+mechanical+engineer&location=Islamabad%2C+Pakistan",
