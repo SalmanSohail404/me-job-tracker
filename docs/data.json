@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:49:38.202184+00:00",
+  "generated_at": "2026-09-29T11:29:00.011147+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -70,8 +70,8 @@
     {
       "name": "D.G. Khan Cement",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.dgcement.com/career.html",
-      "status": "checked",
+      "checked_url": "https://www.dgcement.com/careers/",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=D.G.+Khan+Cement+mechanical+engineer&location=Islamabad%2C+Pakistan",
