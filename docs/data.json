@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:15:52.760842+00:00",
+  "generated_at": "2026-10-18T09:36:22.858648+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -681,7 +681,7 @@
       "name": "Capital Solar Engineering",
       "category": "Solar & Renewable Energy",
       "checked_url": "https://www.capitalsolar.com.pk/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Capital+Solar+Engineering+mechanical+engineer&location=Islamabad%2C+Pakistan",
