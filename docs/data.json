@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:02:28.380673+00:00",
+  "generated_at": "2026-10-21T10:05:46.848190+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -225,8 +225,13 @@
       "name": "Devomech Solutions",
       "category": "Private Engineering & Manufacturing Firms",
       "checked_url": "https://www.devomech.com/careers",
-      "status": "checked",
-      "postings": [],
+      "status": "matches_found",
+      "postings": [
+        {
+          "title": "Devomech Solutions Heads to electronica 2026 in Munich, GermanyMeet the Devomech team at Hall B4, Booth 169/10, from November 10–13, 2026, at Messe München, Germany. Devomech Solutions is preparing to showcase its engineering expertise at electronica 2026, one of the world’s leading international trad...",
+          "link": "https://devomech.com/news/devomech-solutions-heads-to-electronica-2026-in-munich-germany/"
+        }
+      ],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Devomech+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
         "indeed": "https://pk.indeed.com/jobs?q=Devomech+Solutions+mechanical+engineer+intern&l=Islamabad"
@@ -268,8 +273,8 @@
     {
       "name": "Reckon Consulting Engineers",
       "category": "Private Engineering & Manufacturing Firms",
-      "checked_url": "https://www.reckonconsulting.com/",
-      "status": "homepage_only",
+      "checked_url": "https://www.reckonconsulting.com/careers",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Reckon+Consulting+Engineers+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -559,8 +564,8 @@
     {
       "name": "KeyMech Designs",
       "category": "Startups & Smaller Tech/Engineering Firms",
-      "checked_url": "https://www.keymechdesigns.com/",
-      "status": "homepage_only",
+      "checked_url": "https://www.keymechdesigns.com/careers",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=KeyMech+Designs+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -571,7 +576,7 @@
       "name": "TheX Solutions",
       "category": "Startups & Smaller Tech/Engineering Firms",
       "checked_url": "https://www.thexsolutions.com/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=TheX+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
