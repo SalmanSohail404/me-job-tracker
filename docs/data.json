@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:05:34.590557+00:00",
+  "generated_at": "2026-10-27T10:34:14.706149+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -16,7 +16,7 @@
       "name": "Heavy Mechanical Complex (HMC)",
       "category": "Defense & Heavy Engineering",
       "checked_url": "https://www.hmc.com.pk/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Heavy+Mechanical+Complex+%28HMC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -136,8 +136,8 @@
     {
       "name": "National Transmission & Despatch Company (NTDC)",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.ntdc.gov.pk/jobs",
-      "status": "checked",
+      "checked_url": "https://www.ntdc.gov.pk/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
