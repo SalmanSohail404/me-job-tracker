@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:02:05.506865+00:00",
+  "generated_at": "2026-11-02T13:27:51.446836+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -586,8 +586,8 @@
     {
       "name": "Kwick High Tech & Solutions",
       "category": "Startups & Smaller Tech/Engineering Firms",
-      "checked_url": "https://www.kwickhightech.com/careers",
-      "status": "unreachable",
+      "checked_url": "https://www.kwickhightech.com/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Kwick+High+Tech+%26+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -774,7 +774,7 @@
       "name": "The Value Engineering",
       "category": "Engineering Consultancy & Construction",
       "checked_url": "https://www.thevalueengineering.com/careers",
-      "status": "unreachable",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=The+Value+Engineering+mechanical+engineer&location=Islamabad%2C+Pakistan",
