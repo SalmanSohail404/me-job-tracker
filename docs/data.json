@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:04:03.501933+00:00",
+  "generated_at": "2026-11-09T13:55:51.401851+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -136,8 +136,8 @@
     {
       "name": "National Transmission & Despatch Company (NTDC)",
       "category": "Cement, Fertilizer & Energy",
-      "checked_url": "https://www.ntdc.gov.pk/",
-      "status": "homepage_only",
+      "checked_url": "https://www.ntdc.gov.pk/jobs",
+      "status": "checked",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=National+Transmission+%26+Despatch+Company+%28NTDC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
@@ -251,8 +251,8 @@
     {
       "name": "Mechatronix Solutions",
       "category": "Private Engineering & Manufacturing Firms",
-      "checked_url": "https://www.mechatronixsolutions.com/careers",
-      "status": "unreachable",
+      "checked_url": "https://www.mechatronixsolutions.com/",
+      "status": "homepage_only",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Mechatronix+Solutions+mechanical+engineer&location=Islamabad%2C+Pakistan",
