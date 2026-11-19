@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:57:23.788180+00:00",
+  "generated_at": "2026-11-19T14:28:46.765557+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -16,7 +16,7 @@
       "name": "Heavy Mechanical Complex (HMC)",
       "category": "Defense & Heavy Engineering",
       "checked_url": "https://www.hmc.com.pk/careers",
-      "status": "checked",
+      "status": "unreachable",
       "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Heavy+Mechanical+Complex+%28HMC%29+mechanical+engineer&location=Islamabad%2C+Pakistan",
