@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:22:07.050632+00:00",
+  "generated_at": "2026-11-23T15:59:05.975062+00:00",
   "companies": [
     {
       "name": "Heavy Industries Taxila (HIT)",
@@ -306,14 +306,9 @@
     {
       "name": "Engro Corporation",
       "category": "Multinationals & Conglomerates",
-      "checked_url": "https://engrocorp.jobs.hr.cloud.sap/",
-      "status": "matches_found",
-      "postings": [
-        {
-          "title": "engro talent enablers program\n\nwhere engineering & business graduates begin their leadership journey.",
-          "link": "https://engrocorp.jobs.hr.cloud.sap/content/Engro-Talent-Enablers-Program/?locale=en_US&previewLink=true&referrerSave=false"
-        }
-      ],
+      "checked_url": "https://www.engro.com/careers/",
+      "status": "unreachable",
+      "postings": [],
       "external_search": {
         "linkedin": "https://www.linkedin.com/jobs/search/?keywords=Engro+Corporation+mechanical+engineer&location=Islamabad%2C+Pakistan",
         "indeed": "https://pk.indeed.com/jobs?q=Engro+Corporation+mechanical+engineer+intern&l=Islamabad"
